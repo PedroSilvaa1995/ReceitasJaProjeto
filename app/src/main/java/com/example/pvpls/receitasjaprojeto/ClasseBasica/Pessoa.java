@@ -1,4 +1,4 @@
-package com.example.pvpls.receitasjaprojeto.modelo;
+package com.example.pvpls.receitasjaprojeto.ClasseBasica;
 
 /**
  * Created by pvpls on 30/11/2017.
